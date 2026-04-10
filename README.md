@@ -119,8 +119,7 @@ pip install tensorflow keras numpy matplotlib scikit-learn opencv-python pillow
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Diabetic_retinopathy_CNN.git
-   cd Diabetic_retinopathy_CNN
+   git clone https://github.com/SaicharanVeshala/Diabetic-Retinopathy-segmentation-and-classification.git
    ```
 
 2. **Install dependencies**
